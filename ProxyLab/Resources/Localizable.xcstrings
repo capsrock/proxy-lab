@@ -1,0 +1,2346 @@
+{
+  "sourceLanguage": "ja",
+  "strings": {
+    "\"%@\" が \"%@\" でした。\n\"%@\" を返すようにしてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"%1$@\" was \"%2$@\".\nReturn \"%3$@\" instead."
+          }
+        }
+      }
+    },
+    "\"%@\" が届きました。ちょうど \"%@\" にしてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Received \"%1$@\". Change it to exactly \"%2$@\"."
+          }
+        }
+      }
+    },
+    "\"%@\" が届きました。ちょうど %@ にしてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Received \"%1$@\". Change it to exactly %2$@."
+          }
+        }
+      }
+    },
+    "%@\n…（先頭だけ表示しています。全 %lld バイト）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@\n… (showing the beginning only; %2$lld bytes in total)"
+          }
+        }
+      }
+    },
+    "%@ %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@ がサーバに届いていません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ did not reach the server."
+          }
+        }
+      }
+    },
+    "%@ にHTTPプロキシの設定は入っていますが、その先が応答しません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "An HTTP proxy is set to %@, but nothing is responding there."
+          }
+        }
+      }
+    },
+    "%@ の中身が暗号化されたままです。\n中身を読めない状態では、ルールを正しく組んでもレスポンスは変わりません。\nTools → SSL Proxying List… の Include List に %@ を追加してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The content of %1$@ is still encrypted.\nWhile the content can't be read, the response won't change no matter how correctly you set up the rule.\nIn Tools → SSL Proxying List…, add %2$@ to the Include List."
+          }
+        }
+      }
+    },
+    "%@ の新しい値": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New value for %@"
+          }
+        }
+      }
+    },
+    "%@ は通っていて、Proxyman の一覧にも出ます。ただし中身は暗号化されたままで読めません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traffic goes through %@ and shows up in Proxyman's list, but the content is still encrypted and can't be read."
+          }
+        }
+      }
+    },
+    "%@ をコピー": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy %@"
+          }
+        }
+      }
+    },
+    "%@ 秒": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ s"
+          }
+        }
+      }
+    },
+    "%@ 秒 / 最大 %@ 秒": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ s / max %2$@ s"
+          }
+        }
+      }
+    },
+    "%@ 秒（baseline の %@ 倍）。回線を絞れています。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ s (%2$@× the baseline). The connection is throttled."
+          }
+        }
+      }
+    },
+    "%@で Scripting → Script List… を開く。Scripting は Tools の中ではなく、独立したメニュー。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In %@, choose Script List… from the Scripting menu. Scripting is its own menu, not part of Tools."
+          }
+        }
+      }
+    },
+    "%@で Tools → Breakpoint → Rules… を開く。Breakpoint はサブメニューで、その中の Rules… が設定画面。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In %@, choose Rules… from Tools → Breakpoint. Breakpoint is a submenu, and Rules… inside it opens the settings."
+          }
+        }
+      }
+    },
+    "%@で `Tools` → `Block List…` を開く。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In %@, choose `Block List…` from the `Tools` menu."
+          }
+        }
+      }
+    },
+    "%@で `Tools` → `Breakpoint` → `Rules…` を開く。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In %@, choose `Rules…` from `Tools` → `Breakpoint`."
+          }
+        }
+      }
+    },
+    "%@で `Tools` → `Map Local…` を開く。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In %@, choose `Map Local…` from the `Tools` menu."
+          }
+        }
+      }
+    },
+    "%@で `Tools` → `Map Remote…` を開く。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In %@, choose `Map Remote…` from the `Tools` menu."
+          }
+        }
+      }
+    },
+    "%@で `Tools` → `Network Conditions…` を開く。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In %@, choose `Network Conditions…` from the `Tools` menu."
+          }
+        }
+      }
+    },
+    "%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld"
+          }
+        }
+      }
+    },
+    "%lld / %lld クリア": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld / %2$lld cleared"
+          }
+        }
+      }
+    },
+    "%lld 件のうちに id=%lld は見つかりませんでした。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "id=%2$lld was not found among the %1$lld items."
+          }
+        }
+      }
+    },
+    "%lld 件のリクエストを送りました。Proxyman で特定のリクエストを検索してください。\n手順どおりに絞り込みの欄で 1 件まで絞り、その `%@` を読んでください。\n読み取った 4 文字を`答え合わせ`の欄に入れると判定します。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sent %1$lld requests. Find the specific one in Proxyman.\nFollow the steps to narrow the list down to one request with the filter field, then read its `%2$@`.\nEnter the 4 characters you read in the `Check Answer` field to check."
+          }
+        }
+      }
+    },
+    "%lld 件をまとめて送っています。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sending %lld requests at once."
+          }
+        }
+      }
+    },
+    "%lld%%": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld%%"
+          }
+        }
+      }
+    },
+    "1 MB をダウンロードしています。回線を絞っているぶん時間がかかります。そのままお待ちください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Downloading 1 MB. It takes longer because the connection is throttled. Please wait."
+          }
+        }
+      }
+    },
+    "<%lld バイトのバイナリ>": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "<%lld bytes of binary data>"
+          }
+        }
+      }
+    },
+    "API の向き先を切り替える": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Switch the API destination"
+          }
+        }
+      }
+    },
+    "Action で `Block` を選ぶ。`Hide, but not Block` は一覧から隠すだけで、通信は遮断されない。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose `Block` for Action. `Hide, but not Block` only hides it from the list and doesn't block the traffic."
+          }
+        }
+      }
+    },
+    "Breakpoints ウィンドウ下段の Response 欄で Other タブを開く。Status Code の欄をクリックし、%lld から %lld に変更する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In the Response pane at the bottom of the Breakpoints window, open the Other tab. Click the Status Code field and change it from %1$lld to %2$lld."
+          }
+        }
+      }
+    },
+    "HTTP %@ が返りました。まだ遮断されていません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Got HTTP %@. The request is not blocked yet."
+          }
+        }
+      }
+    },
+    "HTTP %lld が届きました。200 に書き換えてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Got HTTP %lld. Change it to 200."
+          }
+        }
+      }
+    },
+    "HTTPプロキシに繋がりません": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Can't reach the HTTP proxy"
+          }
+        }
+      }
+    },
+    "Host（両方）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Host (both)"
+          }
+        }
+      }
+    },
+    "JSON本文を map-local.json として保存し、File の Select Local File で選ぶ。Proxyman がこのJSONをレスポンス本文として返す。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save the JSON body as map-local.json and choose it with Select Local File under File. Proxyman returns this JSON as the response body."
+          }
+        }
+      }
+    },
+    "Mac で Proxyman を起動してください。起動するだけでHTTPプロキシが設定され、シミュレータで通信することができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch Proxyman on the Mac. Launching it sets the HTTP proxy, so the simulator's traffic goes through it."
+          }
+        }
+      }
+    },
+    "Mac で Proxyman を起動する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch Proxyman on the Mac."
+          }
+        }
+      }
+    },
+    "Mac の Proxyman が起動していません": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proxyman is not running on the Mac"
+          }
+        }
+      }
+    },
+    "Mac の Proxyman で `Certificate` → `Install Certificate on iOS` → `Physical Devices…` を開き、証明書をインストールする。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In Proxyman on the Mac, open `Certificate` → `Install Certificate on iOS` → `Physical Devices…` and install the certificate."
+          }
+        }
+      }
+    },
+    "Mac の Proxyman で `Certificate` → `Install Certificate on iOS` → `Simulators…` を開き、証明書をインストールしたあと、シミュレータを再起動する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In Proxyman on the Mac, open `Certificate` → `Install Certificate on iOS` → `Simulators…`, install the certificate, then restart the simulator."
+          }
+        }
+      }
+    },
+    "Mac の Proxyman で `Tools` → `SSL Proxying List…` を開き、`Include List` の「+」を押して、下の `Domain` を貼り付けて `Add` する。`Enable SSL Proxying Tool` が ON になっていることを確認する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In Proxyman on the Mac, open `Tools` → `SSL Proxying List…`, press “+” under `Include List`, paste the `Domain` below, and press `Add`. Make sure `Enable SSL Proxying Tool` is ON."
+          }
+        }
+      }
+    },
+    "Mac の Proxyman で、このアプリが送信したリクエストと受信したレスポンスを読むことができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can read the requests this app sent and the responses it received in Proxyman on the Mac."
+          }
+        }
+      }
+    },
+    "Mac の Proxyman に切り替え、左のサイドバーの `Domains` から postman-echo.com を選ぶ。一覧がこのドメインの通信だけになる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Switch to Proxyman on the Mac and select postman-echo.com under `Domains` in the left sidebar. The list now shows only this domain's traffic."
+          }
+        }
+      }
+    },
+    "Mac のシステム設定で IP アドレスが表示されている場所": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where the IP address is shown in System Settings on the Mac"
+          }
+        }
+      }
+    },
+    "Mac 上で Proxyman が起動しているか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check that Proxyman is running on the Mac."
+          }
+        }
+      }
+    },
+    "Map From と Map To の Host の欄に、この値を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter this value in the Host field of both Map From and Map To."
+          }
+        }
+      }
+    },
+    "Map From と Map To の Path の欄に、この値を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter this value in the Path field of both Map From and Map To."
+          }
+        }
+      }
+    },
+    "Map From と Map To の Protocol の欄に、この値を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter this value in the Protocol field of both Map From and Map To."
+          }
+        }
+      }
+    },
+    "Map From の Query": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Map From Query"
+          }
+        }
+      }
+    },
+    "Map From の Query の欄に、この値を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter this value in the Query field of Map From."
+          }
+        }
+      }
+    },
+    "Map To の Query": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Map To Query"
+          }
+        }
+      }
+    },
+    "Map To の Query の欄に、この値を入れる。ここだけが Map From と違う。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter this value in the Query field of Map To. This is the only field that differs from Map From."
+          }
+        }
+      }
+    },
+    "Matching Rule の欄に、この値を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter this value in the Matching Rule field."
+          }
+        }
+      }
+    },
+    "Matching Rule の欄に、この値を入れる。他のレッスンとパスが違うので、有効のままでも邪魔にならない。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter this value in the Matching Rule field. Its path differs from the other lessons, so it won't get in the way even if left enabled."
+          }
+        }
+      }
+    },
+    "Matching Rule の種類を Wildcard にし、URL の欄にこの値を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set the Matching Rule type to Wildcard and enter this value in the URL field."
+          }
+        }
+      }
+    },
+    "Matching Rule の種類を Wildcard にし、この値を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set the Matching Rule type to Wildcard and enter this value."
+          }
+        }
+      }
+    },
+    "Matching Rule（Wildcard）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matching Rule (Wildcard)"
+          }
+        }
+      }
+    },
+    "Matching URLs の種類を Wildcard にし、その欄にこの値を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set the Matching URLs type to Wildcard and enter this value in that field."
+          }
+        }
+      }
+    },
+    "Matching URLs（Wildcard）:": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Matching URLs (Wildcard):"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Path（両方）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Path (both)"
+          }
+        }
+      }
+    },
+    "Protocol（両方）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Protocol (both)"
+          }
+        }
+      }
+    },
+    "ProxyLab": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ProxyLab"
+          }
+        }
+      }
+    },
+    "Proxyman が通信を止めています。Breakpoints ウィンドウで書き換えて Execute を押すまで待ち続けます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proxyman has paused the request. It keeps waiting until you edit it in the Breakpoints window and press Execute."
+          }
+        }
+      }
+    },
+    "Proxyman での手順": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steps in Proxyman"
+          }
+        }
+      }
+    },
+    "Proxyman で読み取った `%@` の値を入れてください。送り直す必要はありません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter the `%@` value you read in Proxyman. You don't need to send the request again."
+          }
+        }
+      }
+    },
+    "Proxyman の Headers タブで %@ を探し、%@ をこの値（%@）に実際に書き換える。下のボタンが緑のチェックに変わるのはこのアプリでのコピー済み表示で、Proxyman 側の書き換えが済んだという意味ではない。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In the Headers tab in Proxyman, find %1$@ and actually change %2$@ to this value (%3$@). The button below turning into a green check only means it was copied in this app, not that the value was changed in Proxyman."
+          }
+        }
+      }
+    },
+    "Proxyman のメニューバー（画面最上部）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Proxyman's menu bar (at the very top of the screen)"
+          }
+        }
+      }
+    },
+    "Proxyman 上の値が %@ になったことを確認して、`Execute` を押して送信を再開する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make sure the value in Proxyman is now %@, then press `Execute` to resume sending."
+          }
+        }
+      }
+    },
+    "Script Editor に貼り付ける。レスポンスに %@ という配列を生やし、手で書けない量のデータをコードで作る。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste this into the Script Editor. It adds an array named %@ to the response, generating more data with code than you could write by hand."
+          }
+        }
+      }
+    },
+    "URL（Wildcard）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL (Wildcard)"
+          }
+        }
+      }
+    },
+    "Wi-Fi に繋がっているか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check that you're connected to Wi-Fi."
+          }
+        }
+      }
+    },
+    "Xcode の実行先に iPhone Simulator を選び、`Run`（⌘R）でアプリを起動する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose an iPhone Simulator as the run destination in Xcode and launch the app with `Run` (⌘R)."
+          }
+        }
+      }
+    },
+    "`\"%@\"` の行を探し、`%@` をこの値に実際に書き換える。`%@` の行はそのままでよい。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Find the `\"%1$@\"` line and actually change `%2$@` to this value. Leave the `%3$@` line as is."
+          }
+        }
+      }
+    },
+    "`Breakpoint` で `Request` にチェックを入れる。`Response` のチェックは外しておく。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check `Request` under `Breakpoint`. Leave `Response` unchecked."
+          }
+        }
+      }
+    },
+    "`Breakpoint` で `Response` にチェックを入れる。`Request` のチェックは外しておく。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check `Response` under `Breakpoint`. Leave `Request` unchecked."
+          }
+        }
+      }
+    },
+    "`Done` を押す。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Done`."
+          }
+        }
+      }
+    },
+    "`Done` を押す。この画面のボタンは `Save` ではなく `Done`。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Done`. The button on this screen is `Done`, not `Save`."
+          }
+        }
+      }
+    },
+    "`Enable Network Conditions` を ON にし、そのルールの `Enable Rule` も ON にする。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn on `Enable Network Conditions`, and turn on `Enable Rule` for that rule too."
+          }
+        }
+      }
+    },
+    "`Enable Scripting Tool` と、そのルールの `Enable Rule` が ON になっていることを確認する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make sure `Enable Scripting Tool` and the rule's `Enable Rule` are ON."
+          }
+        }
+      }
+    },
+    "`Execute` を押して送信を再開する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Execute` to resume sending."
+          }
+        }
+      }
+    },
+    "`Execute` を押す。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Execute`."
+          }
+        }
+      }
+    },
+    "`File` の `Select Local File` を押し、保存した map-local.json を選ぶ。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Select Local File` under `File` and choose the saved map-local.json."
+          }
+        }
+      }
+    },
+    "`Map To` の欄で `Enable Local File` を選ぶ。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Under `Map To`, choose `Enable Local File`."
+          }
+        }
+      }
+    },
+    "`New Rule` を押す。「+」ではなく `New Rule` というボタン。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `New Rule`. It's a button labeled `New Rule`, not “+”."
+          }
+        }
+      }
+    },
+    "`New…` を押して新しいルールを作る。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `New…` to create a new rule."
+          }
+        }
+      }
+    },
+    "`Profile` で `3G` を選ぶ。数値の `Delay` は入れない。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose `3G` under `Profile`. Don't enter a numeric `Delay`."
+          }
+        }
+      }
+    },
+    "`Run Script on Response` を ON にする。このレッスンでは `Request` 側は不要。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn on `Run Script on Response`. The `Request` side isn't needed in this lesson."
+          }
+        }
+      }
+    },
+    "`Save` を押す。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Save`."
+          }
+        }
+      }
+    },
+    "`Script Editor` に下の`貼り付けるスクリプト`を貼り付ける。1 秒後に自動保存される。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste the `Script to Paste` below into the `Script Editor`. It saves automatically after 1 second."
+          }
+        }
+      }
+    },
+    "`サーバ` の欄に Mac の IP アドレス、`ポート` の欄に 9090 を入れてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter the Mac's IP address in the `Server` field and 9090 in the `Port` field."
+          }
+        }
+      }
+    },
+    "`設定` → `Wi-Fi` → 接続中のネットワークの ⓘ → `HTTP プロキシ` を `手動` にしてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go to `Settings` → `Wi-Fi` → ⓘ next to the connected network → `Configure Proxy` and choose `Manual`."
+          }
+        }
+      }
+    },
+    "baseline が短すぎて比べられません（%@ 秒）。\n`Enable Network Conditions` を OFF に戻してから、`baseline を計測` を押し直してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The baseline is too short to compare (%@ s).\nTurn `Enable Network Conditions` back OFF, then press `Measure Baseline` again."
+          }
+        }
+      }
+    },
+    "baseline の計測に失敗しました: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Failed to measure the baseline: %@"
+          }
+        }
+      }
+    },
+    "baseline を計測": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Measure Baseline"
+          }
+        }
+      }
+    },
+    "iPhone と Mac を同じ Wi-Fi に接続する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect the iPhone and the Mac to the same Wi-Fi network."
+          }
+        }
+      }
+    },
+    "iPhone にHTTPプロキシが設定されていません": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No HTTP proxy is set on the iPhone"
+          }
+        }
+      }
+    },
+    "iPhone の `設定` → `VPN` が `接続済み` なら、オフにする必要があります。iPhone 版 Proxyman がインストールされていて、`VPN` がオンになっていると、Mac 版にリクエストが送信されません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If `Settings` → `VPN` on the iPhone shows `Connected`, turn it off. When Proxyman for iPhone is installed and its `VPN` is on, requests are not sent to the Mac version."
+          }
+        }
+      }
+    },
+    "iPhone の `設定` → `Wi-Fi` → 接続中のネットワークの ⓘ → `HTTP プロキシ` で `手動` を選ぶ。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On the iPhone, go to `Settings` → `Wi-Fi` → ⓘ next to the connected network → `Configure Proxy` and choose `Manual`."
+          }
+        }
+      }
+    },
+    "iPhone の `設定` → `一般` → `情報` → `証明書信頼設定` で Proxyman CA の `ルート証明書を完全に信頼` を ON にする。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On the iPhone, go to `Settings` → `General` → `About` → `Certificate Trust Settings` and turn on `Enable Full Trust for Root Certificates` for Proxyman CA."
+          }
+        }
+      }
+    },
+    "iPhone のHTTPプロキシに設定した IPアドレスが Mac の IPアドレス と一致しているか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check that the IP address set as the iPhone's HTTP proxy matches the Mac's IP address."
+          }
+        }
+      }
+    },
+    "iPhone の同じ画面で、`サーバ` の欄に Mac の IP アドレス、`ポート` の欄に 9090 を入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On the same iPhone screen, enter the Mac's IP address in the `Server` field and 9090 in the `Port` field."
+          }
+        }
+      }
+    },
+    "iPhone シミュレータの手順": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iPhone Simulator Steps"
+          }
+        }
+      }
+    },
+    "{\n  \"%@\": \"%@\",\n  \"id\": 1,\n  \"title\": \"ローカルファイルから返しています\",\n  \"body\": \"サーバが無くても画面は作れる\"\n}": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "{\n  \"%1$@\": \"%2$@\",\n  \"id\": 1,\n  \"title\": \"Returned from a local file\",\n  \"body\": \"You can build screens without a server\"\n}"
+          }
+        }
+      }
+    },
+    "⌘N を押して新しいエントリを追加する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press ⌘N to add a new entry."
+          }
+        }
+      }
+    },
+    "⌘N を押して新しいルールを追加する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press ⌘N to add a new rule."
+          }
+        }
+      }
+    },
+    "⌘N を押して新しいルールを追加する。03 とは URL が違うので、別のルールとして足す。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press ⌘N to add a new rule. The URL differs from lesson 03, so add it as a separate rule."
+          }
+        }
+      }
+    },
+    "「%@」は、送ったリクエストに付いていた値と違います。\n絞り込みの欄が `%@=%@` になっているか確認してください。残るのは 1 件だけです。\nその 1 件の `Response` の `Body` にある `%@` を読んでください。リクエスト側の `Headers` にも同じ値があります。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%1$@” doesn't match the value attached to the request that was sent.\nCheck that the filter field is `%2$@=%3$@`. Only one request should remain.\nRead `%4$@` in the `Body` of that request's `Response`. The same value is also in the request's `Headers`."
+          }
+        }
+      }
+    },
+    "あと 1 つ、設定が足りません": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One more setting is missing"
+          }
+        }
+      }
+    },
+    "あわせて、Mac で Proxyman が起動しているかも確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Also check that Proxyman is running on the Mac."
+          }
+        }
+      }
+    },
+    "このアプリに戻って `診断する` を押し、結果が `セットアップ完了` になることを確認する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Return to this app, press `Run Check`, and make sure the result is `Setup Complete`."
+          }
+        }
+      }
+    },
+    "このドメイン": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "this domain"
+          }
+        }
+      }
+    },
+    "このリクエストだけがサーバに届かなくなりました。一部の API が止まったときの見え方を確認できます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Only this request no longer reaches the server. You can see how the app looks when some APIs are down."
+          }
+        }
+      }
+    },
+    "この画面は `URL` を 1 本入れる形ではなく、`Protocol` / `Host` / `Port` / `Path` / `Query` の欄に分かれている。`Port` は空でよい。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This screen doesn't take a single `URL`. It's split into `Protocol` / `Host` / `Port` / `Path` / `Query` fields. Leave `Port` empty."
+          }
+        }
+      }
+    },
+    "この画面を開くたびに計測値は破棄されます。Network Conditions を OFF にした状態で測ってください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The measurement is discarded each time you open this screen. Measure with Network Conditions turned OFF."
+          }
+        }
+      }
+    },
+    "すでに起動している場合は、Proxyman が受信を止めていないか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If it's already running, check that Proxyman hasn't stopped recording."
+          }
+        }
+      }
+    },
+    "その 4 文字を、下の`答え合わせ`の欄に入れる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter those 4 characters in the `Check Answer` field below."
+          }
+        }
+      }
+    },
+    "それでも変わらない場合は、実機なら %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If nothing changes and you're on a physical device: %@"
+          }
+        }
+      }
+    },
+    "まず、ここから": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start Here"
+          }
+        }
+      }
+    },
+    "まだ %@ に向いています（%@）。\nMap Remote のルールが有効か、Map To のクエリまで入力しているか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Still going to %1$@ (%2$@).\nCheck that the Map Remote rule is enabled and that you also filled in the Map To query."
+          }
+        }
+      }
+    },
+    "まだ %@ 倍にしかなっていません（baseline %@ 秒 → %@ 秒）。\nProxyman の `Tools` → `Network Conditions…` で、そのルールの `Profile` に `3G` が選ばれているか確認してください。\nウィンドウ下の `Enable Network Conditions` と、一覧のそのルールの `Enable Rule` が両方 ON になっているか確認してください。\nどちらも合っていれば、`3G` より遅い `Edge` を選ぶと差が出ます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Only %1$@× so far (baseline %2$@ s → %3$@ s).\nIn Proxyman's `Tools` → `Network Conditions…`, check that `3G` is selected as that rule's `Profile`.\nCheck that both `Enable Network Conditions` at the bottom of the window and the rule's `Enable Rule` in the list are ON.\nIf both are correct, choosing `Edge`, which is slower than `3G`, makes the difference clearer."
+          }
+        }
+      }
+    },
+    "まだ %lld のままです。\nBreakpoint の Response 側にチェックを入れ、Status Code を 200 に変えてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Still %lld.\nCheck the Response side of the Breakpoint and change the Status Code to 200."
+          }
+        }
+      }
+    },
+    "まだ本物のサーバのレスポンスです。\n\"%@\" キーが見つかりません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This is still the real server's response.\nThe \"%@\" key was not found."
+          }
+        }
+      }
+    },
+    "まだ準備が済んでいません。先に`セットアップ診断`を`セットアップ完了`まで進めてください。手順を読むだけなら、レッスンはいつでも開けます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setup isn't done yet. First go through `Setup Check` until it shows `Setup Complete`. You can open lessons anytime just to read the steps."
+          }
+        }
+      }
+    },
+    "やめる": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "よく似た %lld 件から目的の 1 件を見つけて、中身を読めました。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You found the one request among %lld similar ones and read its content."
+          }
+        }
+      }
+    },
+    "アプリからのリクエスト送信時に、サーバ証明書の発行者を確認して、 Proxyman と正しく通信しているかを確認します。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "When the app sends a request, it checks the issuer of the server certificate to confirm that it is communicating through Proxyman correctly."
+          }
+        }
+      }
+    },
+    "アプリがこの JSON を POST します。Proxyman で止めたときに、この中身が出ていることを確かめてください。書き換えの途中で JSON を壊してしまったら、これを貼り直せば元に戻せます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The app POSTs this JSON. When Proxyman pauses it, check that this content appears. If you break the JSON while editing, paste this back to restore it."
+          }
+        }
+      }
+    },
+    "アプリで`リクエストを送る`を押す。よく似たリクエストが %lld 件まとめて飛ぶ。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Send Request` in the app. %lld similar requests are sent at once."
+          }
+        }
+      }
+    },
+    "アプリに戻って`リクエストを送る`を押す。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Return to the app and press `Send Request`."
+          }
+        }
+      }
+    },
+    "アプリに戻って`リクエストを送る`を押すと、Proxyman が送信を止めて `Breakpoints` のウィンドウが開く。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Return to the app and press `Send Request`. Proxyman pauses the request and opens the `Breakpoints` window."
+          }
+        }
+      }
+    },
+    "アプリに戻って`リクエストを送る`を押すと、Proxyman が送信を止めて `Breakpoints` のウィンドウが開く。下の`送るボディ`が、いま止まっている中身。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Return to the app and press `Send Request`. Proxyman pauses the request and opens the `Breakpoints` window. The `Body to Send` below is what is paused right now."
+          }
+        }
+      }
+    },
+    "アプリに戻って`リクエストを送る`を押すと、レスポンスが返る直前で止まる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Return to the app and press `Send Request`. It pauses right before the response is returned."
+          }
+        }
+      }
+    },
+    "アプリを修正せずに、送信するヘッダを書き換えます。認証トークンやフラグを、別の値に書き換えて試すことができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Change the headers being sent without modifying the app. You can try auth tokens or flags with different values."
+          }
+        }
+      }
+    },
+    "アプリを修正せずに、送信するボディを書き換えます。課金プランや権限を、別の値に書き換えて試すことができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Change the body being sent without modifying the app. You can try billing plans or permissions with different values."
+          }
+        }
+      }
+    },
+    "インターネットに接続されていません": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not connected to the internet"
+          }
+        }
+      }
+    },
+    "ウィンドウ下段の Request 欄で `Body` タブを開く。送ろうとしている JSON がそのまま編集できる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open the `Body` tab in the Request pane at the bottom of the window. You can edit the JSON about to be sent directly."
+          }
+        }
+      }
+    },
+    "エコーのレスポンスを読めませんでした。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't read the echo response."
+          }
+        }
+      }
+    },
+    "エラー": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Error"
+          }
+        }
+      }
+    },
+    "エラーレスポンスを書き換えて返す": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rewrite an error response"
+          }
+        }
+      }
+    },
+    "クリア状況と baseline の計測値を消します。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This deletes your cleared lessons and the baseline measurement."
+          }
+        }
+      }
+    },
+    "コピー": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy"
+          }
+        }
+      }
+    },
+    "コピーしました": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copied"
+          }
+        }
+      }
+    },
+    "コピー済": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copied"
+          }
+        }
+      }
+    },
+    "サーバが HTTP %lld を返しました。Proxyman の設定ではなく公開 API 側の問題です。\n少し待ってからもう一度実行してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The server returned HTTP %lld. This is a problem with the public API, not your Proxyman settings.\nWait a moment and try again."
+          }
+        }
+      }
+    },
+    "サーバが返却したレスポンスを、アプリに返却する前にステータスコードを書き換えます。サーバが 500 を返しても 200 に書き換えて返すことができるので、実装を進めることができます。同じ方法で、正常なレスポンスをエラーに変更することもできます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Change the status code of the server's response before it reaches the app. Even if the server returns 500, you can change it to 200 and keep building. The same way, you can turn a normal response into an error."
+          }
+        }
+      }
+    },
+    "サーバは %lld を返しましたが、アプリには 200 が届きました。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The server returned %lld, but the app received 200."
+          }
+        }
+      }
+    },
+    "サーバ証明書が信頼されていません（%@）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The server certificate is not trusted (%@)"
+          }
+        }
+      }
+    },
+    "シミュレータは Mac の通信設定をそのまま使います。Proxyman が起動していないと考えられます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The simulator uses the Mac's network settings as is. Proxyman is probably not running."
+          }
+        }
+      }
+    },
+    "スクリプトが作った %lld 件の配列が届きました。コードでデータを生成できています。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "An array of %lld items created by the script arrived. You're generating data with code."
+          }
+        }
+      }
+    },
+    "ステータス": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status"
+          }
+        }
+      }
+    },
+    "ステータスコードを取得できませんでした。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't get the status code."
+          }
+        }
+      }
+    },
+    "セットアップ完了": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setup Complete"
+          }
+        }
+      }
+    },
+    "セットアップ診断": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setup Check"
+          }
+        }
+      }
+    },
+    "タイムアウトしました": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Timed out"
+          }
+        }
+      }
+    },
+    "ネットワークに接続されていません": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not connected to the network"
+          }
+        }
+      }
+    },
+    "ヘッダは %@ のまま届きました。\nBreakpoint がリクエストを止められていないか、書き換えずに Execute しています。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The header arrived as %@.\nEither the Breakpoint didn't pause the request, or you pressed Execute without editing it."
+          }
+        }
+      }
+    },
+    "ホームに戻って、レッスンを順に進めてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Go back to Home and work through the lessons in order."
+          }
+        }
+      }
+    },
+    "ボディに \"%@\" が見当たりません。\nキーの名前は変えずに、値だけを書き換えてください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"%@\" is missing from the body.\nKeep the key name and change only the value."
+          }
+        }
+      }
+    },
+    "ボディは \"%@\" のまま届きました。\nルールの `Breakpoint` で `Request` にチェックが入っているか確認してください。\n止まったら `Body` タブで値を書き換えてから `Execute` を押してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The body arrived as \"%@\".\nCheck that `Request` is checked under `Breakpoint` in the rule.\nWhen it pauses, edit the value in the `Body` tab, then press `Execute`."
+          }
+        }
+      }
+    },
+    "リクエストが %@ に向きました（%@）。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The request went to %1$@ (%2$@)."
+          }
+        }
+      }
+    },
+    "リクエストをサーバまで到達させずに、Mac に置いた JSON ファイルの中身をレスポンスとして返します。バックエンドが未完成でも、返ってくる中身さえ決まっていれば画面を作り込むことができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Return the content of a JSON file on your Mac as the response, without the request reaching the server. Even if the backend isn't ready, you can build out screens as long as you know what the response will contain."
+          }
+        }
+      }
+    },
+    "リクエストを送る": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send Request"
+          }
+        }
+      }
+    },
+    "リセットする": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset"
+          }
+        }
+      }
+    },
+    "レスポンス": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Response"
+          }
+        }
+      }
+    },
+    "レスポンスに \"%@\" がまだありません。\nスクリプトが有効になっているか、Matching URLs がこのリクエストに合っているか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\"%@\" isn't in the response yet.\nCheck that the script is enabled and that Matching URLs matches this request."
+          }
+        }
+      }
+    },
+    "レスポンスを JSON として読めませんでした。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't read the response as JSON."
+          }
+        }
+      }
+    },
+    "レスポンスを JavaScript で加工する": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Transform a response with JavaScript"
+          }
+        }
+      }
+    },
+    "レスポンスをローカルファイルで書き換える": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Replace a response with a local file"
+          }
+        }
+      }
+    },
+    "レスポンスを読めませんでした。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't read the response."
+          }
+        }
+      }
+    },
+    "レスポンスを読めませんでした。スクリプトが JSON を壊していないか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't read the response. Check that the script isn't breaking the JSON."
+          }
+        }
+      }
+    },
+    "レッスン": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lessons"
+          }
+        }
+      }
+    },
+    "ローカルファイルのレスポンスが返っています。サーバ不要で画面を作れます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The response from the local file is coming back. You can build screens without a server."
+          }
+        }
+      }
+    },
+    "一覧で `Enable Rule` が ON になっていることを確認する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make sure `Enable Rule` is ON in the list."
+          }
+        }
+      }
+    },
+    "一覧で `Enable Rule` と `Enable Map Local Tool` が ON になっていることを確認する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make sure `Enable Rule` and `Enable Map Local Tool` are ON in the list."
+          }
+        }
+      }
+    },
+    "一覧で `Enable Rule` と `Enable Map Remote Tool` が ON になっていることを確認する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make sure `Enable Rule` and `Enable Map Remote Tool` are ON in the list."
+          }
+        }
+      }
+    },
+    "一覧の上に、`URL` `Contains` と並んだ絞り込みの行がある。`Contains` の右の欄にこの値を入れる。このレッスンの %lld 件だけが残る。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Above the list is a filter row with `URL` and `Contains`. Enter this value in the field to the right of `Contains`. Only this lesson's %lld requests remain."
+          }
+        }
+      }
+    },
+    "下の`baseline を計測`を押す。絞る前の所要時間を測っておく。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Measure Baseline` below to measure the time before throttling."
+          }
+        }
+      }
+    },
+    "下の`差し替える中身`をコピーし、Mac に map-local.json という名前で保存する。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy the `Replacement Body` below and save it on the Mac as map-local.json."
+          }
+        }
+      }
+    },
+    "不明": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unknown"
+          }
+        }
+      }
+    },
+    "中身を見る": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Details"
+          }
+        }
+      }
+    },
+    "似たようなAPIの一覧が並ぶ中から、特定のAPIを探して中身を調べる練習をします。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Practice finding a specific API in a list of similar ones and inspecting its content."
+          }
+        }
+      }
+    },
+    "低速回線を再現する": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Simulate a slow connection"
+          }
+        }
+      }
+    },
+    "先に`リクエストを送る`を押してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press `Send Request` first."
+          }
+        }
+      }
+    },
+    "判定": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Result"
+          }
+        }
+      }
+    },
+    "各レッスンを完了すると、ステータスが更新されます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your status updates as you complete each lesson."
+          }
+        }
+      }
+    },
+    "同じ欄をこの値に書き換える。残るのは 1 件だけになる。%lld 件はどれも同じ `/get` なので、一覧の見た目では区別が付かない。違うのは URL の後ろだけ。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Change the same field to this value. Only one request remains. All %lld requests are the same `/get`, so you can't tell them apart in the list. Only the end of the URL differs."
+          }
+        }
+      }
+    },
+    "回線を絞る前の計測": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Measure Before Throttling"
+          }
+        }
+      }
+    },
+    "実機にHTTPプロキシを設定する必要があります。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You need to set an HTTP proxy on the device."
+          }
+        }
+      }
+    },
+    "実機の手順": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Physical Device Steps"
+          }
+        }
+      }
+    },
+    "実行先によって必要な設定が違います。実機は iPhone 側の HTTP プロキシ設定が要りますが、シミュレータは要りません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Setup differs by run destination. A physical device needs an HTTP proxy set on the iPhone, but the simulator doesn't."
+          }
+        }
+      }
+    },
+    "実行環境ごとの手順": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steps by Environment"
+          }
+        }
+      }
+    },
+    "差し替える中身": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Replacement Body"
+          }
+        }
+      }
+    },
+    "応答を待っています。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waiting for a response."
+          }
+        }
+      }
+    },
+    "想定していない URL に届きました（%@）。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reached an unexpected URL (%@)."
+          }
+        }
+      }
+    },
+    "所要時間": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duration"
+          }
+        }
+      }
+    },
+    "接続が遮断されました（%@）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The connection was blocked (%@)"
+          }
+        }
+      }
+    },
+    "既定では通信内容を読むことはできません。SSL Proxying にドメインを追加すると読むことができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "By default, you can't read the content of the traffic. Add the domain to SSL Proxying to read it."
+          }
+        }
+      }
+    },
+    "条件に合ったレスポンスを受信するたびに JavaScript を走らせ、中身を書き換えることができます。手では書けない量のデータや境界値を、毎回自動で差し込むことができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run JavaScript every time a matching response arrives and rewrite its content. You can automatically inject amounts of data or edge-case values you couldn't write by hand."
+          }
+        }
+      }
+    },
+    "機内モードになっていないか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check that Airplane Mode is off."
+          }
+        }
+      }
+    },
+    "残った 1 件を選び、右の `Response` で `Body` を開く。返ってきた JSON の `headers` の中に `%@` があり、英数字 4 文字が入っている。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select the remaining request and open `Body` under `Response` on the right. Inside `headers` in the returned JSON is `%@`, containing 4 alphanumeric characters."
+          }
+        }
+      }
+    },
+    "特定の API をブロックする": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Block a specific API"
+          }
+        }
+      }
+    },
+    "特定のサーバ宛のリクエストを、別のサーバへ転送することができます。本番ビルドのままステージングに送信できるので、アプリの修正を行わなくても送信先を切り替えることができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Forward requests for a specific server to another server. You can send a production build's traffic to staging, switching the destination without modifying the app."
+          }
+        }
+      }
+    },
+    "特定のリクエストだけを 3G 相当まで遅くすることができます。ローディング表示やタイムアウト処理が実際に動くかを、電波の悪い場所へ行かずに確認することができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slow down only specific requests to 3G speeds. You can check that loading indicators and timeout handling actually work without going somewhere with bad reception."
+          }
+        }
+      }
+    },
+    "特定のリクエストだけをブロックすることができます。実際の障害は全部のAPIが止まるのではなく一部だけ止まることが多いので、そのときの画面を確認することができます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Block only specific requests. Real outages often take down only some APIs rather than all of them, so you can check how the app looks in that case."
+          }
+        }
+      }
+    },
+    "生のレスポンス": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raw Response"
+          }
+        }
+      }
+    },
+    "目的のリクエストを一覧から探す": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Find a request in the list"
+          }
+        }
+      }
+    },
+    "確認が終わったら、iPhone の `HTTP プロキシ` を `オフ` に戻してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "When you're done, set the iPhone's `Configure Proxy` back to `Off`."
+          }
+        }
+      }
+    },
+    "答え合わせ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check Answer"
+          }
+        }
+      }
+    },
+    "終わったら `Enable Network Conditions` を OFF に戻す。他のレッスンが遅くなる。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "When you're done, turn `Enable Network Conditions` back OFF. Otherwise other lessons will be slow."
+          }
+        }
+      }
+    },
+    "経過": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elapsed"
+          }
+        }
+      }
+    },
+    "結果": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Result"
+          }
+        }
+      }
+    },
+    "絞り込みの欄（1 件に絞る）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filter field (narrow to 1)"
+          }
+        }
+      }
+    },
+    "絞り込みの欄（まず %lld 件に絞る）": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filter field (first narrow to %lld)"
+          }
+        }
+      }
+    },
+    "絞る前の速さがまだ分かりません。\nこの画面の `baseline を計測` を先に押してください。絞る前と後を比べて判定します。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The speed before throttling isn't known yet.\nPress `Measure Baseline` on this screen first. The result compares before and after throttling."
+          }
+        }
+      }
+    },
+    "英数字 4 文字": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "4 alphanumeric characters"
+          }
+        }
+      }
+    },
+    "診断する": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Run Check"
+          }
+        }
+      }
+    },
+    "診断できませんでした": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't run the check"
+          }
+        }
+      }
+    },
+    "証明書": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certificate"
+          }
+        }
+      }
+    },
+    "証明書がまだ信頼されていません": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The certificate isn't trusted yet"
+          }
+        }
+      }
+    },
+    "証明書の発行者": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certificate Issuer"
+          }
+        }
+      }
+    },
+    "証明書をインストールして、復号できるように設定する必要があります。\nシミュレータと実機では手順が違います。環境ごとにセットアップ診断作業を行ってください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You need to install the certificate and set things up so traffic can be decrypted.\nThe steps differ between the simulator and a physical device. Run the Setup Check for each environment."
+          }
+        }
+      }
+    },
+    "貼り付けるスクリプト": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Script to Paste"
+          }
+        }
+      }
+    },
+    "送ったボディが JSON として届いていません。\n`Body` タブで、カンマや引用符が欠けていないか確認してください。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The body you sent didn't arrive as JSON.\nIn the `Body` tab, check for missing commas or quotes."
+          }
+        }
+      }
+    },
+    "送るボディ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Body to Send"
+          }
+        }
+      }
+    },
+    "送信の途中でボディを \"%@\" に差し替えられました。アプリもサーバも直していません。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The body was replaced with \"%@\" while being sent. Neither the app nor the server was changed."
+          }
+        }
+      }
+    },
+    "送信中のリクエストヘッダを %@ に書き換えられました。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The request header was changed to %@ while being sent."
+          }
+        }
+      }
+    },
+    "送信中のリクエストヘッダを書き換える": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rewrite request headers in flight"
+          }
+        }
+      }
+    },
+    "送信中のリクエストボディを書き換える": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rewrite the request body in flight"
+          }
+        }
+      }
+    },
+    "通信は Proxyman まで届いています。あと一歩です。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traffic is reaching Proxyman. Almost there."
+          }
+        }
+      }
+    },
+    "進捗をリセット": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset Progress"
+          }
+        }
+      }
+    },
+    "＊ Mac の IP アドレスは `システム設定` → `Wi-Fi` → 接続中のネットワークの `詳細…` → `TCP/IP` → `IP アドレス` で確認できます。": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "* You can find the Mac's IP address in `System Settings` → `Wi-Fi` → `Details…` of the connected network → `TCP/IP` → `IP address`."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "MacIPGuide.png",
+      "idiom" : "universal",
+      "locale" : "ja"
+    },
+    {
+      "filename" : "MacIPGuide-en.png",
+      "idiom" : "universal",
+      "locale" : "en"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}
